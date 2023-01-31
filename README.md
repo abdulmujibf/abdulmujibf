@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdulmujibf
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript and PHP
 
 <!---
 abdulmujibf/abdulmujibf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
