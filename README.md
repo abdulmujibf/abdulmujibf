@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abdulmujibf
-- 👀 I’m interested in Game
 - 🌱 I’m currently learning Javascript and PHP
 
 <!---
